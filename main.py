@@ -46,7 +46,7 @@ def convert_msg_to_morse(msg: str):
 
 
 # main loop morse program - enter 'exit' to close the program
-while (True):
+while True:
     print("Welcome to the Text to Morse Converter")
     message = input("Enter your actual message or 'exit' to terminate: ")
     if message.lower() == "exit":
