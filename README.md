@@ -10,7 +10,7 @@ String Message to Morse code App converter using Beep Sounds
 ## App info
 <p>This is a simple python application using dictionaries, user interaction with console via message, function creation and extra library winsound
 to beep the sounds inside the program.More about Morse code usage can be found here: <a href="https://en.wikipedia.org/wiki/Morse_code">Wikipedia Entry for Morse Code</a></p>
-<p>Program Details</p>
+<p>Program Details:</p>
 <ul>
   <li>The program consists of two dictionaries. The first stands for associating the alphabet with morse signal combination and the second to associate the morse code signals
 with sound frequency and duration.</li>
